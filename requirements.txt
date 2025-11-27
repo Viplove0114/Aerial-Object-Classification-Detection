@@ -1,3 +1,4 @@
+opencv-python-headless
 tensorflow-cpu
 torch --index-url https://download.pytorch.org/whl/cpu
 torchvision --index-url https://download.pytorch.org/whl/cpu
@@ -8,5 +9,4 @@ seaborn
 scikit-learn
 streamlit
 ultralytics
-opencv-python-headless
 gdown
