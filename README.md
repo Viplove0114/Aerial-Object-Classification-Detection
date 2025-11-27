@@ -1,5 +1,9 @@
 # Aerial Object Classification & Detection
 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://viplove0114-aerial-object-classification-detection-app-nkksj1.streamlit.app/)
+
+**🚀 Live Demo:** [Click here to view the deployed app](https://viplove0114-aerial-object-classification-detection-app-nkksj1.streamlit.app/)
+
 This project provides a deep learning solution to classify aerial images as **Bird** or **Drone** and detect them using YOLOv8.
 
 ## Project Structure
