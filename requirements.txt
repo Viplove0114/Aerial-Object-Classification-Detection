@@ -8,5 +8,5 @@ seaborn
 scikit-learn
 streamlit
 ultralytics
-opencv-python
+opencv-python-headless
 gdown
