@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.conda/
+*.log
+
+# IDEs
+.vscode/
+.idea/
+
+# Datasets (Too large for git)
+classification_dataset/
+object_detection_Dataset/
+
+# System
+.DS_Store
+Thumbs.db
+
+# Training Artifacts
+models/*.png
+models/*.keras
+
+# YOLOv8
+models/yolov8_results/
+
+# WandB (if used)
+wandb/
